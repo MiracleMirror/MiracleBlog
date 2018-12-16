@@ -1,3 +1,5 @@
+Alpha preview. No documentation yet.
+
 # Miracle Blog
 
 Привет добро пожаловать на документацию по MiracleBlog
