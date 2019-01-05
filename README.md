@@ -29,4 +29,6 @@ Alpha preview. No documentation yet.
 
 ### Это alpha preview
 
+Скачать билд 1.1 https://yadi.sk/d/RKlD9ShOXYm1AQ
+
 Обо всех ошибках писать на почту support@miraclemirror.net или в issue
